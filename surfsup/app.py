@@ -1,4 +1,3 @@
-
 # Import the dependencies.
 import numpy as np
 
